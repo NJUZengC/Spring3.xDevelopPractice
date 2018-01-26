@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Spring3.xDevelopPractice:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spring3_xDevelopPractice_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Spring3.xDevelopPractice/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Spring3.xDevelopPractice" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
